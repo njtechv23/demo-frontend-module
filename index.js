@@ -1,6 +1,6 @@
 import React from "react";
 
-const demoModule = () => {
+const DemoModule = () => {
     return (
         <View>
             <Text>A common module, just a demo</Text>
@@ -8,4 +8,4 @@ const demoModule = () => {
     )
 }
 
-export default demoModule;
+export default DemoModule;
